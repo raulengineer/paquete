@@ -1,0 +1,8 @@
+pandas
+glob
+os
+Beautifulsoup
+selenium
+lmxml
+time
+date

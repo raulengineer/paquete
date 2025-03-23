@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+paquete/__init__.py
+paquete/ucprotect.py
+paquete.egg-info/PKG-INFO
+paquete.egg-info/SOURCES.txt
+paquete.egg-info/dependency_links.txt
+paquete.egg-info/not-zip-safe
+paquete.egg-info/requires.txt
+paquete.egg-info/top_level.txt
