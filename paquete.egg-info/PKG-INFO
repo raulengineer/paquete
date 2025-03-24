@@ -14,7 +14,7 @@ Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python
 License-File: LICENSE
 Requires-Dist: pandas
-Requires-Dist: Beautifulsoup
+Requires-Dist: Beautifulsoup4
 Requires-Dist: selenium
 Requires-Dist: lmxml
 Requires-Dist: time

@@ -1,5 +1,5 @@
 pandas
-Beautifulsoup
+Beautifulsoup4
 selenium
 lmxml
 time
