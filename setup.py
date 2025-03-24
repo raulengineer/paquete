@@ -12,7 +12,7 @@ if __name__ == "__main__":
           long_description=open('README.md').read(),
           packages=find_packages(),
           zip_safe=False,
-          install_requires=["pandas","Beautifulsoup4","selenium","lxml","date"],
+          install_requires=["pandas","Beautifulsoup4","selenium","lxml"],
         classifiers=[    "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
     "Natural Language :: English",
