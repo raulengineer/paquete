@@ -17,7 +17,6 @@ Requires-Dist: pandas
 Requires-Dist: Beautifulsoup4
 Requires-Dist: selenium
 Requires-Dist: lxml
-Requires-Dist: time
 Requires-Dist: date
 Dynamic: author
 Dynamic: author-email
