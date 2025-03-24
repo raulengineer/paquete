@@ -16,7 +16,7 @@ License-File: LICENSE
 Requires-Dist: pandas
 Requires-Dist: Beautifulsoup4
 Requires-Dist: selenium
-Requires-Dist: lmxml
+Requires-Dist: lxml
 Requires-Dist: time
 Requires-Dist: date
 Dynamic: author
