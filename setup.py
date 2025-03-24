@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 if __name__ == "__main__":
-    setup(name ="paquete",
+    setup(name ="ucprotect3",
           description="Esta es una aplicacion para descargar level 3 de ucprotect",
           license="MIT",
           url="https://github.com/raulengineer/paquete.git",
