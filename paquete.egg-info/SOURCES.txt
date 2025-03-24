@@ -2,7 +2,6 @@ LICENSE
 README.md
 setup.py
 paquete/__init__.py
-paquete/setup.py
 paquete/ucprotect.py
 paquete.egg-info/PKG-INFO
 paquete.egg-info/SOURCES.txt
