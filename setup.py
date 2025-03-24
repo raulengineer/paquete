@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 if __name__ == "__main__":
     setup(name ="paquete",
-          description="esta es una aplicacion para descargar level 3 de ucprotect",
+          description="Esta es una aplicacion para descargar level 3 de ucprotect",
           license="MIT",
           url="https://github.com/raulengineer/paquete.git",
           version="0.0.1",
@@ -12,7 +12,7 @@ if __name__ == "__main__":
           long_description=open('README.md').read(),
           packages=find_packages(),
           zip_safe=False,
-          install_requires=["pandas","glob","os","Beautifulsoup","selenium","lmxml","time","date"],
+          install_requires=["pandas","os","Beautifulsoup","selenium","lmxml","time","date"],
         classifiers=[    "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
     "Natural Language :: English",
