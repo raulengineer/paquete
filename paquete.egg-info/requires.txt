@@ -2,4 +2,3 @@ pandas
 Beautifulsoup4
 selenium
 lxml
-date
